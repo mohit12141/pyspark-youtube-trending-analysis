@@ -14,8 +14,6 @@ This project explores YouTube trending videos in India using PySpark and Google 
 - Average views per category
 - Visualizations: histograms, bar plots
 
-## 📊 Sample Visual
-*(add image if you saved one)*
 
 ## 🚀 How to Run
 - Open notebook in Colab
